@@ -67,3 +67,5 @@ console.log("hasOwnProperty" in me);
 console.log(me.hasOwnProperty("hasOwnProperty"));
 console.log(me.hasOwnProperty("height"));
 console.log(me.hasOwnProperty("experience"));
+
+//changes made for testing
